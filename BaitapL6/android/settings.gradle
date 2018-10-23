@@ -1,0 +1,3 @@
+rootProject.name = 'BaitapL6'
+
+include ':app'
